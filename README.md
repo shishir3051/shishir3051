@@ -35,8 +35,8 @@ I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I build 
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shishir3051&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir3051&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shishir3051&theme=github_dark" alt="GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shishir3051&theme=github_dark" alt="Language breakdown across repositories" />
 </p>
 
 <p align="center">

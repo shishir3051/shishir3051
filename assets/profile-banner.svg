@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Shishir — Junior Software Engineer</title>
+  <desc id="description">A dark blue technology-themed banner with abstract code and network motifs.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <path d="M760 0h440v300H900l-140-150z" fill="#17243a" opacity=".62"/>
+  <g fill="none" stroke="#334766" stroke-width="2" opacity=".65">
+    <path d="M780 36h120l54 54h160M834 244h120l48-48h158M1040 36v54l-48 50v56M1130 0v42l-54 54v58l54 54v92"/>
+    <circle cx="900" cy="36" r="5" fill="#38bdf8" stroke="none"/>
+    <circle cx="1114" cy="90" r="5" fill="#818cf8" stroke="none"/>
+    <circle cx="1002" cy="196" r="5" fill="#38bdf8" stroke="none"/>
+    <circle cx="954" cy="244" r="5" fill="#818cf8" stroke="none"/>
+  </g>
+  <g transform="translate(820 80)" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".9">
+    <path d="m45 0-42 70 42 70M122 0l42 70-42 70M99 18 68 122"/>
+  </g>
+  <rect x="64" y="58" width="7" height="184" rx="3.5" fill="url(#accent)"/>
+  <text x="100" y="132" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="1">MD. GAZIUR RAHMAN SHISHIR</text>
+  <text x="102" y="180" fill="#a5b4fc" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="4">JUNIOR SOFTWARE ENGINEER</text>
+  <text x="102" y="222" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Full-stack development · Dhaka, Bangladesh</text>
+  <path d="M102 245h320" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+</svg>

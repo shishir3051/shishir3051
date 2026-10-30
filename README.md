@@ -10,13 +10,19 @@
 
 ## 👋 About me
 
-I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I build full-stack web applications and enjoy working across frontend experiences, APIs, and backend workflows. My current toolkit includes TypeScript, React, Next.js, Node.js, and Java with Spring Boot.
+I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I enjoy building useful full-stack products, from clean interfaces to APIs and backend workflows. I work mainly with TypeScript, React, Next.js, Node.js, and Java with Spring Boot.
 
 - 🌐 Explore my work on [my portfolio](https://portfolio-rahman-shishir.vercel.app/)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahman-shishir-442867266)
 - 📍 Based in Dhaka, Bangladesh
 
-## 🧰 Technologies
+## 💡 What I like to build
+
+- Full-stack web apps with clear, responsive user experiences
+- Workflow tools that make complex processes easier to manage
+- Interactive learning and developer-focused products
+
+## 🧰 Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,html,css,git&theme=dark" alt="Java, Spring, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, HTML, CSS, and Git" />
@@ -33,6 +39,10 @@ I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I build 
 | [Portfolio](https://github.com/shishir3051/portfolio-rahmanShishir) | My personal portfolio and project showcase. |
 
 ## 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shishir3051&theme=github_dark" alt="GitHub contribution activity overview" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shishir3051&theme=github_dark" alt="GitHub statistics" />

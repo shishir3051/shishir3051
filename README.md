@@ -32,6 +32,7 @@ I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I enjoy 
 
 | Project | What it does |
 | --- | --- |
+| [LedgerFlow](https://github.com/shishir3051/LedgerFlow) | **Java & Spring Boot 3 FinTech Engine** with double-entry accounting, Idempotency-Key guard, pessimistic locking, and ISO 20022 (pacs.008) XML settlement. |
 | [HireReady](https://github.com/shishir3051/HireReady) | Interview-preparation platform with interactive coding walkthroughs, practice tools, and progress tracking. |
 | [DocFlow](https://github.com/shishir3051/DocFlow) | Document verification and approval workflow platform with role-based reviews and audit trails. |
 | [AI English Coach](https://github.com/shishir3051/AI-English-Coach) | English-learning and IELTS preparation platform with AI coaching and progress tracking. |

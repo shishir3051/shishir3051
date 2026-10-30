@@ -29,6 +29,7 @@ I'm **Shishir**, a Junior Software Engineer based in Dhaka, Bangladesh. I build 
 | [HireReady](https://github.com/shishir3051/HireReady) | Interview-preparation platform with interactive coding walkthroughs, practice tools, and progress tracking. |
 | [DocFlow](https://github.com/shishir3051/DocFlow) | Document verification and approval workflow platform with role-based reviews and audit trails. |
 | [AI English Coach](https://github.com/shishir3051/AI-English-Coach) | English-learning and IELTS preparation platform with AI coaching and progress tracking. |
+| [SwiftFlow 3D](https://github.com/shishir3051/swiftflow-3d) | Experimental demo exploring SWIFT MT103 to ISO 20022 message conversion. |
 | [Portfolio](https://github.com/shishir3051/portfolio-rahmanShishir) | My personal portfolio and project showcase. |
 
 ## 📊 GitHub at a glance
